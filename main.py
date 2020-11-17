@@ -1,6 +1,6 @@
 import sys
-from src.render import RenderResult
-from src.registery_manager import RegisteryManager
+from src.Render import RenderResult
+from src.RegisteryManager import RegisteryManager
 
 user_input = sys.argv[1]
 
